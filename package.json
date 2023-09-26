@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Project to learn Node.js, Express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hakinathan/Natours-API.git"
+  },
+  "author": "Nathan Lemoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hakinathan/Natours-API/issues"
+  },
+  "homepage": "https://github.com/Hakinathan/Natours-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
